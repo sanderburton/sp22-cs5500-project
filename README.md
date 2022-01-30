@@ -2,7 +2,7 @@
 
 ## Linear Algebra Routines Parallelized
 
-## Project managed with Jira
+## Project managed with Jira/Github
 
 ## Authors
 *   TODO: Double check these names are all spelled right, just to test out Jira
